@@ -12,8 +12,6 @@ Git Kraken
 
 Git Kraken2
 
-Test Pull  
+Test Pull !
 
 Tet Fetch
-
-Coll Only
